@@ -1,4 +1,4 @@
-## CppProjects
+## C++ Projects
 
 This folder includes the files and projects that I completed in CS 106B: Programming Abstractions (C++).
 
